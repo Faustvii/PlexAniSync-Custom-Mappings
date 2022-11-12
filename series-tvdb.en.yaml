@@ -313,6 +313,15 @@ entries:
       - season: 9
         anilist-id: 813
 
+  - title: "Noumin Kanren no Skill Bakka Agetetara Naze ka Tsuyoku Natta."
+    synonyms:
+      - "Noumin Kanren no Skill Bakka Agetetara Naze ka Tsuyoku Natta"
+      - "I've Somehow Gotten Stronger When I Improved My Farm-Related Skills"
+      - "I Somehow Got Strong By Raising Skills Related To Farming"
+    seasons:
+      - season: 1
+        anilist-id: 145815
+
   - title: "Durarara!!"
     seasons:
       - season: 1
