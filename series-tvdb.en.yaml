@@ -1336,3 +1336,12 @@ entries:
         start: 7
       - season: 3
         anilist-id: 122292
+
+  - title: "Isekai Ojisan"
+    synonyms:
+      - "Isekai Oji-san"
+      - "Ojisan in Another World"
+      - "Uncle from Another World"
+    seasons:
+      - season: 1
+        anilist-id: 135806
